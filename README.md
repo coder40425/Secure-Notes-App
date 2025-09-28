@@ -34,7 +34,7 @@ I wanted to create something genuinely useful, and what’s more important than 
 
 ### 🔐 Authentication  
 ![Login Page](screenshots/login.png)  
-![Signup Page](screenshots/signup.png)  
+![Signup Page](screenshots/register.png)  
 
 ### 🏠 Dashboard  
 ![Dashboard](screenshots/dashboard.png)  
